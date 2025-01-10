@@ -24,7 +24,7 @@ HelioViews-SunStudy/
 
 Title
 
-# HelioViews Sun Study Project
+# Cesium Cert Sun Study Project
 
 Description
 
@@ -32,7 +32,7 @@ This project showcases sunlight path analysis using Cesium tools, integrated wit
 
 Setup Instructions
 
-Clone the repository: git clone https://github.com/username/HelioViews-SunStudy.git
+Clone the repository: git clone https://github.com/username/Cesium-Cert-SunStudy.git
 
 Import 3DModels/ into Trimble SketchUp or Blender and export to Cesium Ion.
 
