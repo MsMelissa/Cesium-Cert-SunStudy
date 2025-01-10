@@ -1,29 +1,3 @@
-# Cesium-Cert-SunStudy
-Sunlight path analysis using Cesium tools; Includes 3D assets and geospatial data for solar analysis.
-
-GitHub Repository Setup
-
-1. Create the Repository
-
-Log in to GitHub and create a new repository: Cesium-Cert-SunStudy.
-
-Set the repository to public.
-
-Initialize with a README.md.
-
-2. Repository Structure
-
-Cesium-Cert-SunStudy/
-|-- 3DModels/          # Trimble SketchUp and Blender models
-|-- CesiumConfigs/     # Configuration files for Cesium Ion
-|-- Documentation/     # Architecture diagrams and technical docs
-|-- SourceCode/        # Python/Blueprint scripts
-|-- README.md          # Detailed project overview
-
-3. README.md Content
-
-Title
-
 # Cesium Cert Sun Study Project
 
 Description
